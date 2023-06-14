@@ -1,0 +1,4 @@
+aligulac/*.env
+/data.json
+/db.sqlite3
+.vscode/
