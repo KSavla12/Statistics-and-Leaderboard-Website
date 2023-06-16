@@ -1,7 +1,7 @@
 # Statistics & Leaderboard-Website
 ### A professional player showcase for a popular RTS game 'SC2'
 ### Created with Django backend and ReactJS frontend, along with:
-#### Django REST framework / Python / Javasrcipt / PostgreSQL / HTML / CSS
+#### Django REST framework / Python / JavaScript / PostgreSQL / HTML / CSS
 (https://aligulac.herokuapp.com/)
 #
 Functionality:
