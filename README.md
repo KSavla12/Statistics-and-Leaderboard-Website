@@ -11,7 +11,7 @@ Functionality:
 - Automatically calculates player race/faction specific Elo rating based on results
 - Automatically ranks players based on overall rating
 - Input new players and match results between players through Django admin system
-![](https://imgur.com/5Q9Dltd)
+![Imgur](https://imgur.com/5Q9Dltd.jpg)
 - Light and dark mode theme
 
 Progress:
